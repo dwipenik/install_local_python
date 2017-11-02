@@ -28,6 +28,6 @@ popd
 echo "######################################"
 echo "Python local installations finished."
 echo "To use python 2.7, enter the following command:"
-echo "  export PATH=\$HOME/python/Python-2.7.14:$PATH"
+echo "  export PATH=\$HOME/python/Python-2.7.14:\$PATH"
 echo "To use python 3.6, enter the following command:"
-echo "  export PATH=\$HOME/python/Python-3.6.3:$PATH"
+echo "  export PATH=\$HOME/python/Python-3.6.3:\$PATH"
